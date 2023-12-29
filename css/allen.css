@@ -1,0 +1,193 @@
+.r1{
+    background-color: gray;
+}
+
+.nav-item .nav-link{
+    color: black;
+}
+.r2{
+    border-bottom: 1px solid black;
+}
+.al{
+    color: rgb(21, 21, 83);
+    padding-top: 50px;
+   
+    margin-left: 50px;
+    
+}
+.r4{
+    background-color: bisque;
+}
+.ge{
+    color:rgb(117, 73, 15);
+    padding-left: 50px;
+}
+.asa{
+     background-color: yellow;
+     border: 1px solid rgb(128, 93, 47);
+     margin-left: -50px;
+     border-style: dashed;
+     text-align: center;
+    
+}
+.h{
+    width: 120px;
+    height: 170px;
+    padding-top: 80px;
+    margin-left: 170px;
+}
+.di{
+    text-align: center;
+}
+.dis{
+    color: rgb(14, 14, 99);
+}
+.st{
+    color: rgb(31, 31, 99);
+    margin-left: 400px;
+    text-align: center;
+}
+.co{
+    color: rgb(31, 31, 88);
+    
+
+    
+}
+.p1{
+    width:680px;
+    height: 750px;
+}
+.M{
+    color: rgb(156, 118, 13);
+    text-align: center;
+    margin-left: 100px;
+}
+.r5{
+    background-color: rgb(14, 14, 102);
+}
+.na{
+    background-color: rgb(14, 14, 102) ;
+    
+}
+.nav-item .c{
+    color: white;
+}
+.r6{
+    background-color: rgb(8, 8, 61);
+    color: white;
+    padding-bottom: 50px
+}
+.p2{
+    width: 700px;
+    height: 850px;
+}
+.to{
+    text-align: center;
+    background-color: rgb(12, 12, 59);
+    color: white;
+    margin-left: 15px;
+}
+.im{
+    width: 500px;
+    height: 420px;
+}
+.p5{
+    margin-left: -250px;
+    margin-top: -280px;
+}
+.sh{
+    border: 1px solid rgb(255, 192, 203);
+    background-color: rgb(255, 192, 203);
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    
+   
+}
+.div1{
+    margin-left: 600px;
+    
+    margin-top: -300px;
+    background-color: pink;
+    height: 250px;
+    width: 470px;
+    text-align: center;
+}
+/* .bl{
+     margin-left: 180px;
+     background-color: white;
+} */
+.m{
+    margin-left: 120px;
+}
+.sts{
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.bla{
+    margin-left:240px ;
+    margin-top: -45px;
+    background-color: white;
+    width: 100px;
+    height: 40px;
+}
+.of{
+    color: white;
+}
+.tr{
+    margin-left: 105px;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+}
+/* .fa{
+    background-color: white;
+    margin-top: -280px;
+    margin-left: 100px;
+    width: 100px;
+    height: 40px;
+} */
+.tl{
+    color: rgb(16, 16, 66);
+    text-align: center;
+
+}
+.ea{
+    text-align: center;
+    background-color: yellow;
+    color: rgb(19, 19, 63);
+    width: 300px;
+    margin-left: 600px;
+    
+}
+.af{
+     margin-left: 300px;
+}
+.ref{
+    margin-left: 339px;
+    margin-top: -55px;
+    color: yellow;
+}
+.r10{
+    background-color: rgb(19, 19, 58);
+}
+.wit{
+    color: white;
+    margin-left:780px ;
+    margin-top:-55px ;
+}
+.divbtn{
+    margin-left: 1500px;
+    margin-top: -55px;
+}
+.vi{
+    text-align: center;
+    color:white;
+    background-color: rgb(7, 7, 44);
+    width: 500px;
+    height: 50px;
+    margin-left: 500px;
+}
